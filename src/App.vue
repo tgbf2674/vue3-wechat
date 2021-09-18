@@ -11,6 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </template>
 
 <style lang="scss">
+@import "@/style/base.scss";
 $border-color: red;
 .ab{
   border: 1px solid red;
